@@ -1,5 +1,5 @@
 theme: minima
-title: Daniel Díaz Carrete's homepage
+title: Daniel Díaz Carrete's page
 description: My homepage
 exclude:
   - "flake.*"
